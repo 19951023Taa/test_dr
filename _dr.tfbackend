@@ -1,0 +1,3 @@
+bucket  = "terraform.testdr.bucket"
+key     = "dr"
+region  = "ap-northeast-1"
