@@ -1,1 +1,2 @@
-env = "st"
+env     = "st"
+project = "test"

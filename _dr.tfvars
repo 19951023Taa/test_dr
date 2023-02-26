@@ -1,1 +1,2 @@
-env = "dr"
+env     = "dr"
+project = "test"
